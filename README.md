@@ -16,3 +16,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Usage
 Run the script `simple-interest.sh` in a Bash terminal and enter the 
 required values when prompted.
+This is a minor typo fix. 
